@@ -1,0 +1,22 @@
+.home{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url( "images/maintenancier.jpg");
+}
+.navbar{
+    width: 100%;
+}
+ 
+h2{
+    text-align: center;
+}
+  
+.technique{
+    background-image: url( "images/nature.jpg"); 
+    width: 100%;
+    height: 2000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
