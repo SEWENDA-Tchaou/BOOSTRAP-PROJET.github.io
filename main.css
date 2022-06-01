@@ -20,6 +20,26 @@ h2{
     background-size: cover;
     background-repeat: no-repeat;
 }
+/* 
+.temoignage_bloc{
+    justify-content: space-around !important;
+} */
+.temoignage{
+    background-color: #C4C4C4;
+    width: 18.75rem;
+    height: 52vh;
+    border-radius: 20px;
+}
+.temoin1{
+    background-color: #D6E6DA;
+    width: 18.75rem;
+    height: 50vh;
+     border-radius: 20px;
+} 
+
+@media all and (max-width: 1151px){
+
+}
 
 @media all and (max-width: 1128px){
     .col{
