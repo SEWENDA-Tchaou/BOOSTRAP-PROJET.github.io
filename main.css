@@ -40,6 +40,12 @@ h2{
 button{
     justify-content: center !;
 }
+
+@media all and (max-width: 3437px){
+    .temoin1{
+        height: 300px;
+    }
+}
 @media all and (max-width: 1151px){
 
 }
