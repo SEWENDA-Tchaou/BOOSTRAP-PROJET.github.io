@@ -42,6 +42,9 @@ button{
 }
 
 @media all and (max-width: 3437px){
+    .temoignage{
+        height: 310px;
+    }
     .temoin1{
         height: 300px;
     }
