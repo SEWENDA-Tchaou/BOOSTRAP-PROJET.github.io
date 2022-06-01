@@ -37,6 +37,9 @@ h2{
      border-radius: 20px;
 } 
 
+button{
+    justify-content: center !;
+}
 @media all and (max-width: 1151px){
 
 }
