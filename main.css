@@ -16,7 +16,26 @@ h2{
 .technique{
     background-image: url( "images/nature.jpg"); 
     width: 100%;
-    height: 2000px;
+    height: 7000px;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+@media all and (max-width: 1128px){
+    .col{
+        margin: 0 !important;
+        border-radius: 20px;
+    }
+}
+@media all and (max-width: 888px){
+   
+   .col{
+       width: 200px;
+   }
+    
+}
+@media all and (max-width: 384px){
+    .first-photos{
+        flex-wrap: wrap;
+    }
 }
