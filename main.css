@@ -23,7 +23,7 @@ h2{
 .image_blue{
     background-image: url("images/image_fond_bleu.png");
     width: 100%;
-    height: 700px;
+    height: 750px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -52,6 +52,20 @@ button{
     justify-content: center !;
 }
 
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    background: none;
+    outline: none;
+}
+.partenaires{
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.contact{
+    justify-content: space-around;
+}
 @media all and (max-width: 3437px){
     .temoignage{
         height: 310px;
