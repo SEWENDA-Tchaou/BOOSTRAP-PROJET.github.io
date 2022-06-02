@@ -4,11 +4,17 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url( "images/maintenancier.jpg");
+     
 }
 .navbar{
     width: 100%;
 }
  
+h1{
+    position: relative;
+    top: 300px;
+    font-weight: bold;
+}
 h2{
     text-align: center;
 }
@@ -79,8 +85,21 @@ input{
         height: 300px;
     }
 }
-@media all and (max-width: 1151px){
-
+@media all and (max-width: 1189px){
+ .temoin1{
+     width: 218px;
+ }
+ .temoignage{
+     width: 218px;
+ }
+ input{
+     width: 100px !important;
+ }
+ 
+ .our_contacts{
+     width: 320px;
+     
+    }
 }
 
 @media all and (max-width: 1128px){
@@ -88,6 +107,35 @@ input{
         margin: 0 !important;
         border-radius: 20px;
     }
+}
+@media all and (max-width: 1024px){
+    .temoin1{
+        width: 250px !important;
+    }
+    .temoignage{
+        width: 250px;
+    }
+}
+@media all and (max-width: 912px){
+    .technique, .image_blue{
+        background-image: none;
+    }
+    .contact{
+        margin-top: 35px;
+    }
+    .contact_us{
+        margin-top: 608px;
+   }
+   .temoignage_bloc1{
+    margin: 0 !important;
+   ;
+   }
+   .temoignage{
+    width: 205px !important;
+   }
+   .temoin1{
+       width: 205px !important;
+   }
 }
 @media all and (max-width: 888px){
    
