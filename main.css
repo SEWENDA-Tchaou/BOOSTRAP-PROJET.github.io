@@ -12,7 +12,7 @@
  
 h1{
     position: relative;
-    top: 300px;
+    top: 100px;
     font-weight: bold;
 }
 h2{
@@ -139,6 +139,10 @@ input{
 }
 @media all and (max-width: 888px){
    
+    h1{
+        
+        top: 200px;
+    } 
    .col{
        width: 200px;
    }
