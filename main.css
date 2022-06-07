@@ -6,6 +6,7 @@
     background-image: url( "images/maintenancier.jpg");
      
 }
+
 .navbar{
     width: 100%;
 }
@@ -26,6 +27,7 @@ h2{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 .image_blue{
     background-image: url("images/image_fond_bleu.png");
     width: 100%;
@@ -33,7 +35,7 @@ h2{
     background-size: cover;
     background-repeat: no-repeat;
 }
-dep
+ 
 .temoignage{
     background-color: #C4C4C4;
     width: 18.75rem;
